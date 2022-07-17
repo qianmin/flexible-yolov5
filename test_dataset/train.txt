@@ -1,0 +1,5 @@
+E:/projects/flexible-yolov5-2/dataset/images/train/1.jpg
+E:/projects/flexible-yolov5-2/dataset/images/train/2.jpg
+E:/projects/flexible-yolov5-2/dataset/images/train/3.jpg
+E:/projects/flexible-yolov5-2/dataset/images/train/4.jpg
+E:/projects/flexible-yolov5-2/dataset/images/train/7.jpg
